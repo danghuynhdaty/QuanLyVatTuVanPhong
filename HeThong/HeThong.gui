@@ -1,0 +1,105 @@
+<Screen
+	CID = "1642950629"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "240721989"
+			Type = "FrameWindow"
+			X = "-517"
+			Y = "-195"
+			Width = "1350"
+			Height = "750"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			WindowColour = "255,255,255,0,0"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "100"
+			Title = "Quản lý vật tư văn phòng"
+			TitleBarHeight = "18"
+			IconMargin = "0"
+			BorderSize = "3"
+			IsBorderless = "0"
+			IsActive = "1"
+			IsDocWindow = "1"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "1"
+			Mirror = "0"
+			Buttons = "7"
+			Icon = "DefaultApp"/>
+		<Element
+			CID = "1647001900"
+			Type = "MenuBar"
+			X = "-511"
+			Y = "-170"
+			Width = "1338"
+			Height = "30"
+			Flags = "5378"
+			UseDataTable = "0"
+			TableName = ""
+			TopEdge = "Flat"
+			BottotmEdge = "Raised"
+			LeftEdge = "Flat"
+			RightEdge = "Flat"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "100"
+			NextItemID = "9"
+			LeftMargin = "0"
+			Mirror = "0">
+			<MenuBarItem
+				Item = "Hệ thống"
+				ItemID = "1"/>
+			<MenuBarItem
+				Item = "Khách hàng"
+				ItemID = "2"/>
+			<MenuBarItem
+				Item = "Sản phẩm"
+				ItemID = "3"/>
+			<MenuBarItem
+				Item = "Đặt Hàng"
+				ItemID = "4"/>
+			<MenuBarItem
+				Item = "Xuất hàng"
+				ItemID = "5"/>
+			<MenuBarItem
+				Item = "Thống kê"
+				ItemID = "6"/>
+			<MenuBarItem
+				Item = "Báo cáo"
+				ItemID = "7"/>
+			<MenuBarItem
+				Item = "Trợ giúp"
+				ItemID = "8"/>
+		</Element>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1642948001"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

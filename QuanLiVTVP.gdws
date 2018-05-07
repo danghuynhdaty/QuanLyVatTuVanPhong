@@ -1,0 +1,64 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Toolbars">
+	<OpenFiles
+		CID = "1"
+		LastActive = "11">
+		<File
+			FileID = "B57835DE-53C1-4DF3-A3AFE5BDBC92CA22"
+			RootPath = "$Container"
+			RelativePathname = "DatHang\CapNhatDatHang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "0E39040A-B03A-470B-AC0CB9853E6DB0A2"
+			RootPath = "$Container"
+			RelativePathname = "DatHang\DanhSachDatHang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "4BE9E9F8-5438-4A24-86F72822D5B41EF2"
+			RootPath = "$Container"
+			RelativePathname = "DatHang\ThemDatHang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "6C17980B-FF3F-4E02-ABF5EA146A6EFE79"
+			RootPath = "$Container"
+			RelativePathname = "DatHang\TimKiemDatHang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "1B64C4C4-616F-4CD7-81C4DAAAD46EC13A"
+			RootPath = "$Container"
+			RelativePathname = "DatHang\InPhieuHoaDon.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "D1FECD73-B89C-42AE-837092075185FA15"
+			RootPath = "$Container"
+			RelativePathname = "SanPham\CapNhatSanPham.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "5B81C16B-35F3-4E19-99A25FEF43E03A22"
+			RootPath = "$Container"
+			RelativePathname = "SanPham\DanhSachSanPham.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "81BD446F-5874-4297-BADB985E55BC640C"
+			RootPath = "$Container"
+			RelativePathname = "SanPham\ThemSanPham.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "7F4280F7-12D9-4A84-B6F803320644E6D0"
+			RootPath = "$Container"
+			RelativePathname = "SanPham\TimKiemSanPham.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "C08622A4-6E6B-4065-B88D066D71238DC3"
+			RootPath = "$Container"
+			RelativePathname = "Thongke\InThongKe.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "5160EC3C-2E46-4386-83D5FA36EEA8F7EC"
+			RootPath = "$Container"
+			RelativePathname = "Thongke\ThongKeTrongNgay.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

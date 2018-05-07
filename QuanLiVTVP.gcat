@@ -1,0 +1,269 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "04114E27-A04D-4472-ADEB8E76CC7EDE6B"
+			RelativePath = "KhachHang\fb.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\fb.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "0478B40C-D9CC-4F8C-956CA3661870C04A"
+			RelativePath = "DatHang\DanhSachPhieuDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\DanhSachPhieuDatHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "0E39040A-B03A-470B-AC0CB9853E6DB0A2"
+			RelativePath = "DatHang\DanhSachDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\DanhSachDatHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "17E84300-D5D7-4579-AA13300B8C6FE04D"
+			RelativePath = "DatHang\InPhieuDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\InPhieuDatHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "1B64C4C4-616F-4CD7-81C4DAAAD46EC13A"
+			RelativePath = "DatHang\InPhieuHoaDon.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\InPhieuHoaDon.gui"/>
+		<FileInfo
+			ID = "2220A9F7-386A-42F3-B53CC333F2B8A299"
+			RelativePath = "BaoCao\InBaoCao.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "BaoCao\In.gui"/>
+		<FileInfo
+			ID = "29F15531-0040-4892-8B3D9E50643F7D45"
+			RelativePath = "KhachHang\TimKiemKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\TimKiemKhachHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "41FD657C-7CCA-4460-98429E04E43E5490"
+			RelativePath = "KhachHang\XoaKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\XoaKhachHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "448D8774-275A-4ACC-B369F67AF09F542F"
+			RelativePath = "BaoCao\BaoCaoTrongNgay.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "BaoCao\InBaoCao.gui"/>
+		<FileInfo
+			ID = "45BD786B-CBAF-4F35-99EDB9EF8C96FFA6"
+			RelativePath = "GiaoHang\ThemGiaoHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\ThemGiaoHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "4823E9E7-0438-4717-869F75E849D7C2A5"
+			RelativePath = "BaoCao\BaoCaoDatHangTrongNgay.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\BaoCaoDatHangTrongNgay.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "4BE9E9F8-5438-4A24-86F72822D5B41EF2"
+			RelativePath = "DatHang\ThemDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\ThemDatHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "4F3FD5E2-E9A0-4A56-AE8CE059A34FF589"
+			RelativePath = "DatHang\DanhSachDonDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\DanhSachPhieuDatHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "5160EC3C-2E46-4386-83D5FA36EEA8F7EC"
+			RelativePath = "Thongke\ThongKeTrongNgay.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "BaoCao\ThongKeTrongNgay.gui"/>
+		<FileInfo
+			ID = "575F99B3-5797-461E-B7D817C4FDC6DA10"
+			RelativePath = "KhachHang\TimKiemKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\TimKiemKhachHang.gui"/>
+		<FileInfo
+			ID = "5B81C16B-35F3-4E19-99A25FEF43E03A22"
+			RelativePath = "SanPham\DanhSachSanPham.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SanPham\DanhSachSanPham.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "6333AC0E-1968-4717-881AD2770C424AF3"
+			RelativePath = "icon\search_32_XkH_icon.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icon\search_32_XkH_icon.ico"/>
+		<FileInfo
+			ID = "6AF7F684-7B98-4AC6-912B0251899C7532"
+			RelativePath = "QuanLiVTVP.autosave"
+			OriginalRoot = "$Project"
+			OriginalPath = "QuanLiVTVP.autosave"/>
+		<FileInfo
+			ID = "6C17980B-FF3F-4E02-ABF5EA146A6EFE79"
+			RelativePath = "DatHang\TimKiemDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\TimKiemDatHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "7260593E-6A57-4AAC-97BD17FC571B8B75"
+			RelativePath = "KhachHang\ThemKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\ThemKhachHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "7B7F7712-2842-4859-AA65644C3DD6D728"
+			RelativePath = "DatHang\ThemPhieuDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\ThemPhieuDatHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "7B9329A3-094B-482A-BE9E9E62BC71C5D4"
+			RelativePath = "HeThong\HeThong.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "HeThong\HeThong.gui"/>
+		<FileInfo
+			ID = "7F4280F7-12D9-4A84-B6F803320644E6D0"
+			RelativePath = "SanPham\TimKiemSanPham.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SanPham\TimKiemSanPham.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "81BD446F-5874-4297-BADB985E55BC640C"
+			RelativePath = "SanPham\ThemSanPham.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SanPham\ThemSanPham.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "8906256B-CF0C-4CAC-B25EDCD30F73DC03"
+			RelativePath = "icon\if_untitled_2_21_536285_8rY_icon.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icon\if_untitled_2_21_536285_8rY_icon.ico"/>
+		<FileInfo
+			ID = "893F6E1C-6E05-42F9-82D9340BB3ECD6F7"
+			RelativePath = "Thongke\DanhSachThanhToan.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SanPham\DanhSachThanhToan.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "903851D9-4252-4E98-A712AAA38E22980B"
+			RelativePath = "DatHang\ThemDonDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\ThemPhieuDatHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "A31A5538-DF7D-45B6-B4CA98AC8B2C0928"
+			RelativePath = "DatHang\PhieuDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\PhieuDatHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "A841D380-A295-429E-82746739D3E551F5"
+			RelativePath = "GiaoHang\TimKiemGiaoHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\TimKiemGiaoHang.gui"/>
+		<FileInfo
+			ID = "AAF25778-8050-47C7-B89394646B7092A1"
+			RelativePath = "icon\if_button_recycle_refresh_repeat_1076762_8kY_icon.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icon\if_button_recycle_refresh_repeat_1076762_8kY_icon.ico"/>
+		<FileInfo
+			ID = "AE4FAA66-3DD0-431D-9981E8D3E926190E"
+			RelativePath = "KhachHang\CapNhatKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\CapNhatKhachHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "B0ED56E2-2C14-4874-AB7A7CCAD47EABE8"
+			RelativePath = "DatHang\TimKiem.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\TimKiem.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "B4CA828A-6C53-439C-87CCD1B37B06449F"
+			RelativePath = "icon\edit_button_32_iQZ_icon.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icon\edit_button_32_iQZ_icon.ico"/>
+		<FileInfo
+			ID = "B57835DE-53C1-4DF3-A3AFE5BDBC92CA22"
+			RelativePath = "DatHang\CapNhatDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\CapNhatDatHang.gui"/>
+		<FileInfo
+			ID = "BC26B772-037F-46AC-96111EE28784FABF"
+			RelativePath = "icon\add_button_32_0NR_icon.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icon\add_button_32_0NR_icon.ico"/>
+		<FileInfo
+			ID = "C08622A4-6E6B-4065-B88D066D71238DC3"
+			RelativePath = "Thongke\InThongKe.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "BaoCao\InThongKe.gui"/>
+		<FileInfo
+			ID = "C5F632C9-D7F8-4664-900DC112711718F0"
+			RelativePath = "GiaoHang\InHoaDonGiaoHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\InHoaDonGiaoHang.gui"/>
+		<FileInfo
+			ID = "C8A3BEB7-8B33-4E40-B5E8832413D5D322"
+			RelativePath = "DatHang\CapNhatPhieuDatHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\CapNhatPhieuDatHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "D1FECD73-B89C-42AE-837092075185FA15"
+			RelativePath = "SanPham\CapNhatSanPham.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\CapNhatSanPham.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "D42B7F1F-74DF-4B0D-A269582F5013F728"
+			RelativePath = "SanPham\CapNhatSanPham.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SanPham\CapNhatSanPham.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "D4982724-A46D-4627-B2F48892D8A1378E"
+			RelativePath = "README.md"
+			OriginalRoot = "$Project"
+			OriginalPath = "README.md"/>
+		<FileInfo
+			ID = "DBDCC38B-5233-4768-AAFCA946494F7409"
+			RelativePath = "icon\printer_256_1an_icon.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icon\printer_256_1an_icon.ico"/>
+		<FileInfo
+			ID = "E173DC86-914A-4931-A48F954D40D3574C"
+			RelativePath = "KhachHang\DanhSachKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\DanhSachKhachHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "E483FCA3-9C3F-4652-B4CC652A2F4271C5"
+			RelativePath = "KhachHang\ThemMoiKhachHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\ThemMoiKhachHang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "E728507E-1109-48BE-8986024FB1C3C814"
+			RelativePath = "GiaoHang\CapNhatGiaoHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\CapNhatGiaoHang.gui"/>
+		<FileInfo
+			ID = "E8D27FE9-4DCD-45FC-BAEE8AB461624A95"
+			RelativePath = "KhachHang\ghdhcnk.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "KhachHang\ghdhcnk.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "F55B437C-6500-44C6-89463C4D308A29F0"
+			RelativePath = "GiaoHang\DanhSachGiaoHang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DatHang\DanhSachGiaoHang.gui"/>
+	</Files>
+</Catalogue>
