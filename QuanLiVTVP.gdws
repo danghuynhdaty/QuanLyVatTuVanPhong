@@ -4,7 +4,7 @@
 	IconCategory = "Toolbars">
 	<OpenFiles
 		CID = "1"
-		LastActive = "11">
+		LastActive = "5">
 		<File
 			FileID = "B57835DE-53C1-4DF3-A3AFE5BDBC92CA22"
 			RootPath = "$Container"
@@ -59,6 +59,36 @@
 			FileID = "5160EC3C-2E46-4386-83D5FA36EEA8F7EC"
 			RootPath = "$Container"
 			RelativePathname = "Thongke\ThongKeTrongNgay.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "AE4FAA66-3DD0-431D-9981E8D3E926190E"
+			RootPath = "$Container"
+			RelativePathname = "KhachHang\CapNhatKhachHang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "E173DC86-914A-4931-A48F954D40D3574C"
+			RootPath = "$Container"
+			RelativePathname = "KhachHang\DanhSachKhachHang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "E483FCA3-9C3F-4652-B4CC652A2F4271C5"
+			RootPath = "$Container"
+			RelativePathname = "KhachHang\ThemMoiKhachHang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "E728507E-1109-48BE-8986024FB1C3C814"
+			RootPath = "$Container"
+			RelativePathname = "GiaoHang\CapNhatGiaoHang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "F55B437C-6500-44C6-89463C4D308A29F0"
+			RootPath = "$Container"
+			RelativePathname = "GiaoHang\DanhSachGiaoHang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "C5F632C9-D7F8-4664-900DC112711718F0"
+			RootPath = "$Container"
+			RelativePathname = "GiaoHang\InHoaDonGiaoHang.gui"
 			ViewSettings = ""/>
 	</OpenFiles>
 </Workspace>
